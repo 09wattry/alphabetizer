@@ -1,0 +1,4 @@
+wallaby.js
+.tern-project
+node_modules
+.env

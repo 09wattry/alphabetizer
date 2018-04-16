@@ -1,0 +1,34 @@
+{
+  "name": "alphabetizer",
+  "version": "1.0.0",
+  "description": "Alphabetizes String inputs.",
+  "scripts": {
+    "main": "alphabetizer.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:09wattry/alphabetizer.git"
+  },
+  "dependencies": {
+    "commander": "^2.15.1",
+    "knuth-shuffle": "^1.0.8"
+  },
+  "keywords": [
+    "alphabet",
+    "sort",
+    "string",
+    "insertion sort",
+    "quick sort"
+  ],
+  "author": "Ryan Wattrus",
+  "license": "MIT",
+  "bugs": {
+    "url": "git@github.com:09wattry/alphabetizer.git/issues"
+  },
+  "homepage": "git@github.com:09wattry/alphabetizer.git#README",
+  "devDependencies": {
+    "dotenv": "^5.0.1",
+    "jest": "^22.4.3"
+  }
+}
